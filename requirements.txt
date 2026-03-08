@@ -1,0 +1,11 @@
+# requirements.txt
+numpy>=1.24.0
+pytest>=7.4.0
+aiohttp>=3.9.0
+requests>=2.31.0
+
+# Optional signal sources (uncomment as needed):
+# py-clob-client>=0.17.0    # Polymarket CLOB execution
+# tweepy>=4.14.0             # Twitter/X API
+# newsapi-python>=0.2.7      # NewsAPI
+# python-dotenv>=1.0.0       # Env var management
